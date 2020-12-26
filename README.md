@@ -1,4 +1,4 @@
-### Hi there, 👋 I am Divya currently working on Natural Language Processing 
+### Hi there, 👋 I am Divya, currently working on Natural Language Processing 
 
 <!--
 **divya-r-kamat/divya-r-kamat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
