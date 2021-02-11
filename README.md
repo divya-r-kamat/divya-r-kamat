@@ -1,7 +1,14 @@
 <h1 align="center">Hello 👋, I'm Divya</h1>
 <h2 align="center">A Machine Learning Engineer and Deep learning Enthusiast</h2>
-
 <h2 align="center">Welcome to my github repository, hope you find it useful!!!</h2> 
+
+<p align="center">
+    - 🔭 I’m currently working on <b>Natural Language Processing</b> <br>
+    - 🌱 I’m currently learning state-of-the-art techniques in NLP using Pytorch <br>
+    - 👯 I’m looking to collaborate on any Machine Learning or AI project for Social Good
+</p>
+
+
 
 ---
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=divya-r-kamat&label=Profile%20views&color=0e75b6&style=flat" alt="divya-r-kamat" /> </p>
