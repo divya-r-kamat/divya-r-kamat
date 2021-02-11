@@ -23,10 +23,11 @@
     <img src="https://img.shields.io/badge/MLFramework-scikit_learn-orange?style=flat-square&logo=Scikit-learn&logoColor=fff" />
 </p>
 
-<h2 align="center">Welcome to my github repository, hope you find it useful!!!</h2> 
 
 
 <!--
+<h2 align="center">Welcome to my github repository, hope you find it useful!!!</h2> 
+
 **divya-r-kamat/divya-r-kamat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
