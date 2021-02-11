@@ -1,7 +1,5 @@
 <h1 align="center">Hello 👋, I'm Divya</h1>
 <h2 align="center">A Machine Learning Engineer and Deep learning Enthusiast</h2>
-<h2 align="center">Welcome to my github repository, hope you find it useful!!!</h2> 
-
 <p align="center">
     - 🔭 I’m currently working on <b>Natural Language Processing</b> <br>
     - 🌱 I’m currently learning state-of-the-art techniques in NLP using Pytorch <br>
@@ -24,6 +22,8 @@
     <img src="https://img.shields.io/badge/AIFramework-PyTorch-red?style=flat-square&logo=PyTorch&logoColor=fff" />
     <img src="https://img.shields.io/badge/MLFramework-scikit_learn-orange?style=flat-square&logo=Scikit-learn&logoColor=fff" />
 </p>
+
+<h2 align="center">Welcome to my github repository, hope you find it useful!!!</h2> 
 
 
 <!--
