@@ -7,12 +7,13 @@
 </p>
 
 
-
 ---
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=divya-r-kamat&label=Profile%20views&color=0e75b6&style=flat" alt="divya-r-kamat" /> </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=divya-r-kamat&show_icons=true&title_color=83a598&icon_color=fb4934&text_color=9f9f9f&bg_color=3c383c">
+    <img  src="https://github-readme-stats.vercel.app/api?username=divya-r-kamat&show_icons=true&theme=dark&count_private=true&hide=contribs,issue" />
+    <!--img src="https://github-readme-stats.vercel.app/api?username=divya-r-kamat&show_icons=true&title_color=83a598&icon_color=fb4934&text_color=9f9f9f&bg_color=3c383c"-->
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=divya-r-kamat&layout=compact&theme=dark" />
 </p>
 
 ---
@@ -23,6 +24,10 @@
     <img src="https://img.shields.io/badge/MLFramework-scikit_learn-orange?style=flat-square&logo=Scikit-learn&logoColor=fff" />
 </p>
 
+
+## 📝 How to access my blogs
+
+[![WordPress Badge](https://img.shields.io/badge/dkamat-Medium-blue?style=for-the-badge&logo=wordpress)](https://dkamatblog.home.blog/)
 
 
 <!--
