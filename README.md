@@ -27,7 +27,7 @@
 
 ## 📝 How to access my blogs
 
-[![WordPress Badge](https://img.shields.io/badge/dkamat-Medium-blue?style=for-the-badge&logo=wordpress)](https://dkamatblog.home.blog/)
+[![WordPress Badge](https://img.shields.io/badge/dkamat-WordPress-blue?style=for-the-badge&logo=wordpress)](https://dkamatblog.home.blog/)
 
 
 <!--
