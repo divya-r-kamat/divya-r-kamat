@@ -16,15 +16,13 @@
     <!--img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=divya-r-kamat&layout=compact&theme=dark" /-->
 </p>
 
----
-
 <p align="center">
     <img src="https://img.shields.io/badge/Language-Python-blue?style=flat-square&logo=Python&logoColor=fff" />
     <img src="https://img.shields.io/badge/AIFramework-PyTorch-red?style=flat-square&logo=PyTorch&logoColor=fff" />
     <img src="https://img.shields.io/badge/MLFramework-scikit_learn-orange?style=flat-square&logo=Scikit-learn&logoColor=fff" />
 </p>
 
-
+---
 ## 📝 How to access my blogs
 
 [![WordPress Badge](https://img.shields.io/badge/dkamat-WordPress-blue?style=for-the-badge&logo=wordpress)](https://dkamatblog.home.blog/)
