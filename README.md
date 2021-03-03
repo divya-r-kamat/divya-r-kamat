@@ -1,5 +1,8 @@
 <h1 align="center">Hello 👋, I'm Divya</h1>
 <h2 align="center">A Machine Learning Engineer and Deep learning Enthusiast</h2>
+
+<details>
+    
 <p align="center">
     - 🔭 I’m currently working on <b>Natural Language Processing</b> <br>
     - 🌱 I’m currently learning state-of-the-art techniques in NLP using Pytorch <br>
@@ -31,6 +34,9 @@
 <!--
 <h2 align="center">Welcome to my github repository, hope you find it useful!!!</h2> 
 
+
+
+
 **divya-r-kamat/divya-r-kamat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -44,3 +50,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</details>
