@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Divya</h1>
 <h2 align="center">A Machine Learning Engineer and Deep learning Enthusiast</h2>
 
-<details>
+<!--details>
     
 <p align="center">
     - 🔭 I’m currently working on <b>Natural Language Processing</b> <br>
