@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Divya</h1>
 <h2 align="center">A Machine Learning Engineer and Deep learning Enthusiast</h2>
 
-<!--details>
+<!details>
     
 <p align="center">
     - 🔭 I’m currently working on <b>Natural Language Processing</b> <br>
@@ -14,7 +14,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=divya-r-kamat&label=Profile%20views&color=0e75b6&style=flat" alt="divya-r-kamat" /> </p>
 
 <p align="center">
-    <img  src="https://github-readme-stats.vercel.app/api?username=divya-r-kamat&show_icons=true&theme=dark&count_private=true&hide=contribs,issue" />
+    <img  src="https://github-readme-stats.vercel.app/api?username=divya-r-kamat&show_icons=true&theme=dark&count_private=true&hide=contribs,issue"/>
     <!--img src="https://github-readme-stats.vercel.app/api?username=divya-r-kamat&show_icons=true&title_color=83a598&icon_color=fb4934&text_color=9f9f9f&bg_color=3c383c"-->
     <!--img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=divya-r-kamat&layout=compact&theme=dark" /-->
 </p>
@@ -50,4 +50,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-</details>
+<!/details>
