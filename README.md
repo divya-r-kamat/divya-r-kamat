@@ -1,7 +1,6 @@
 <h1 align="center">Hello 👋, I'm Divya</h1>
 <h2 align="center">A Machine Learning Engineer and Deep learning Enthusiast</h2>
 
-    
 <p align="center">
     - 🔭 I’m currently working on <b>Natural Language Processing</b> <br>
     - 🌱 I’m currently learning state-of-the-art techniques in NLP using Pytorch <br>
@@ -25,7 +24,7 @@
 </p>
 
 ---
-## 📝 How to access my blogs
+## 📝 My blogs
 
 [![WordPress Badge](https://img.shields.io/badge/dkamat-WordPress-blue?style=for-the-badge&logo=wordpress)](https://dkamatblog.home.blog/)
 
