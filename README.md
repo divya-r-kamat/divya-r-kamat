@@ -24,9 +24,10 @@
 </p>
 
 ---
-## 📝 My blogs
-
-[![WordPress Badge](https://img.shields.io/badge/dkamat-WordPress-blue?style=for-the-badge&logo=wordpress)](https://dkamatblog.home.blog/)
+<h3 align="center">My blogs</h3>
+<p align="center">
+    <img href="https://dkamatblog.home.blog/" src="https://img.shields.io/badge/dkamat-WordPress-blue?style=for-the-badge&logo=wordpress" />
+</p
 
 
 <!--
