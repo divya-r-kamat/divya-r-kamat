@@ -3,7 +3,7 @@
 
 <p align="center">
     - 🔭 I’m currently working on <b>Natural Language Processing</b> <br>
-    - 🌱 I’m currently learning state-of-the-art techniques in NLP using Pytorch <br>
+    - 🌱 I’m currently learning state-of-the-art techniques in Computer Vision using Pytorch <br>
     - 👯 I’m looking to collaborate on any Machine Learning or AI project for Social Good
 </p>
 
