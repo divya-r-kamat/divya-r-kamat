@@ -1,10 +1,10 @@
 <h1 align="center">Hello 👋, I'm Divya</h1>
-<h2 align="center">A NLP Engineer</h2>
+<h2 align="center">NLP Engineer</h2>
 
 <p align="center">
     - 🔭 I’m currently working on <b>Natural Language Processing</b> <br>
     - 🌱 I’m currently learning state-of-the-art techniques in Computer Vision using Pytorch <br>
-    - 👯 I’m looking to collaborate on any Machine Learning or AI project for Social Good
+    - 👯 Interested in NLP, Computer Vision & AI Research roles and eager to contribute to any Machine Learning or AI project for Social Good
 </p>
 
 
