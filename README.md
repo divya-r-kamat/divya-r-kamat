@@ -1,5 +1,4 @@
-<h1 align="center">Hello 👋, I'm Divya</h1>
-<h2 align="center">NLP Engineer</h2>
+<h1 align="center">Hello 👋, I'm Divya, NLP Engineer</h2></h1>
 
 <p align="center">
     - 🔭 I’m currently working on <b>Natural Language Processing</b> <br>
