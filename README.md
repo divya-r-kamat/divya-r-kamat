@@ -2,7 +2,7 @@
 
 <p align="center">
     - 🔭 I’m currently working on Text Analytics using <b>Natural Language Processing and Azure</b> <br>
-    - 🌱 I’m currently learning state-of-the-art techniques in Computer Vision using Pytorch <br>
+    - 🌱 I’m currently learning LLM and knowledge graphs <br>
     - 👯 Interested in NLP, Machine Learning & AI Research roles and eager to contribute to any Machine Learning or AI project for Social Good
 </p>
 
