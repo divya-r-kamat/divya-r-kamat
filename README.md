@@ -1,13 +1,10 @@
-<h1 align="center">Hello 👋, I'm Divya, NLP Engineer</h2></h1>
+<h1 align="center">Hello 👋, I'm Divya, AI Engineer</h2></h1>
 
 <p align="center">
-    - Experienced professional with a strong background in Data Integration and Machine Learning. Proven track record in developing data-driven solutions.
-    - Proficient in Python and Text Analytics for extracting actionable insights.
-    - Expertise in building Data Integration Pipelines with tools like Azure Synapse, SnapLogic, and Ab Initio (ETL).
-    - Hands-on experience in delivering Data mining , Predictive Maintenance, Causal AI, Forecasting, Anomaly Detection, and Generative AI solutions.
-    - Skilled in Data Visualization using PowerBI for impactful storytelling and decision-making.
-    - Strong foundation in Unix Shell Scripting and SQL for data processing and automation.
-    - 👯 Interested in NLP, Machine Learning & AI Research roles and eager to contribute to any Machine Learning or AI project for Social Good
+    Experienced professional with a strong background in Data Integration and Machine Learning. Proven track record in developing data-driven solutions. Proficient in Python and Text Analytics for extracting actionable insights. Expertise in building Data Integration Pipelines with tools like Azure Synapse, SnapLogic, and Ab Initio (ETL).
+Hands-on experience in delivering Data mining , Predictive Maintenance, Causal AI, Forecasting, Anomaly Detection, and Generative AI solutions. Skilled in Data Visualization using PowerBI for impactful storytelling and decision-making. Strong foundation in Unix Shell Scripting and SQL for data processing and automation.
+        
+- 👯 Interested in NLP, Machine Learning & AI Research roles and eager to contribute to any Machine Learning or AI project for Social Good
 </p>
 
 
